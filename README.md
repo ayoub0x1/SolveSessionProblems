@@ -154,7 +154,7 @@ $ make install
 ```
 3. And finally, add this to this file **~/.zshrc**
 ```sh
- export PATH="/Users/"login"/valgrind/bin:$PATH"
+ export PATH="/Users/{login}/valgrind/bin:$PATH"
 ```
 ### Problem 10: Lost all the configuration & the extension on VScode 
 
